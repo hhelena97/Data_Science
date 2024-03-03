@@ -1,0 +1,106 @@
+,holiday,ds,lower_window,upper_window
+0,Neujahr,2016-01-01,-1,0
+1,Neujahr,2017-01-01,-1,0
+2,Neujahr,2018-01-01,-1,0
+3,Neujahr,2019-01-01,-1,0
+4,Neujahr,2020-01-01,-1,0
+5,Neujahr,2021-01-01,-1,0
+6,Neujahr,2022-01-01,-1,0
+0,Karneval,2016-02-04,0,3
+1,Karneval,2017-02-23,0,3
+2,Karneval,2018-02-08,0,3
+3,Karneval,2019-02-28,0,3
+4,Karneval,2020-02-20,0,3
+5,Karneval,2021-02-11,0,3
+6,Karneval,2022-02-24,0,3
+0,Ostern,2016-03-25,0,3
+1,Ostern,2017-04-14,0,3
+2,Ostern,2018-03-30,0,3
+3,Ostern,2019-04-19,0,3
+4,Ostern,2020-04-10,0,3
+5,Ostern,2021-04-02,0,3
+6,Ostern,2022-04-15,0,3
+0,Osterferien,2016-03-21,0,13
+1,Osterferien,2017-04-06,0,13
+2,Osterferien,2018-03-26,0,13
+3,Osterferien,2019-04-15,0,13
+4,Osterferien,2020-04-06,0,13
+5,Osterferien,2021-03-29,0,13
+6,Osterferien,2022-04-11,0,13
+0,1. Mai,2016-05-01,0,0
+1,1. Mai,2017-05-01,0,0
+2,1. Mai,2018-05-01,0,0
+3,1. Mai,2019-05-01,0,0
+4,1. Mai,2020-05-01,0,0
+5,1. Mai,2021-05-01,0,0
+6,1. Mai,2022-05-01,0,0
+0,Christi Himmelfahrt,2016-05-05,0,0
+1,Christi Himmelfahrt,2017-05-25,0,0
+2,Christi Himmelfahrt,2018-05-10,0,0
+3,Christi Himmelfahrt,2019-05-30,0,0
+4,Christi Himmelfahrt,2020-05-21,0,0
+5,Christi Himmelfahrt,2021-05-13,0,0
+6,Christi Himmelfahrt,2022-05-26,0,0
+0,Vatertag,2016-05-05,0,0
+1,Vatertag,2017-05-25,0,0
+2,Vatertag,2018-05-10,0,0
+3,Vatertag,2019-05-30,0,0
+4,Vatertag,2020-05-21,0,0
+5,Vatertag,2021-05-13,0,0
+6,Vatertag,2022-05-09,0,0
+0,Muttertag,2016-05-08,0,0
+1,Muttertag,2017-05-14,0,0
+2,Muttertag,2018-05-13,0,0
+3,Muttertag,2019-05-12,0,0
+4,Muttertag,2020-05-10,0,0
+5,Muttertag,2021-05-09,0,0
+6,Muttertag,2022-05-08,0,0
+0,Pfingsten,2016-05-15,0,1
+1,Pfingsten,2017-06-04,0,1
+2,Pfingsten,2018-05-20,0,1
+3,Pfingsten,2019-06-09,0,1
+4,Pfingsten,2020-05-31,0,1
+5,Pfingsten,2021-05-23,0,1
+6,Pfingsten,2022-06-05,0,1
+0,Fronleichnam,2016-05-26,0,0
+1,Fronleichnam,2017-06-15,0,0
+2,Fronleichnam,2018-05-31,0,0
+3,Fronleichnam,2019-06-20,0,0
+4,Fronleichnam,2020-06-11,0,0
+5,Fronleichnam,2021-06-03,0,0
+6,Fronleichnam,2022-06-16,0,0
+0,Tag der deutschen Einheit,2016-10-03,0,0
+1,Tag der deutschen Einheit,2017-01-01,0,0
+2,Tag der deutschen Einheit,2018-01-01,0,0
+3,Tag der deutschen Einheit,2019-01-01,0,0
+4,Tag der deutschen Einheit,2020-01-01,0,0
+5,Tag der deutschen Einheit,2021-01-01,0,0
+6,Tag der deutschen Einheit,2022-01-01,0,0
+0,Herbstferien,2016-10-10,0,12
+1,Herbstferien,2017-10-23,0,12
+2,Herbstferien,2018-10-15,0,12
+3,Herbstferien,2019-10-14,0,12
+4,Herbstferien,2020-10-12,0,12
+5,Herbstferien,2021-10-11,0,12
+6,Herbstferien,2022-10-04,0,12
+0,Allerheiligen,2016-11-01,0,0
+1,Allerheiligen,2017-11-01,0,0
+2,Allerheiligen,2018-11-01,0,0
+3,Allerheiligen,2019-11-01,0,0
+4,Allerheiligen,2020-11-01,0,0
+5,Allerheiligen,2021-11-01,0,0
+6,Allerheiligen,2022-11-01,0,0
+0,Weihnachten,2016-12-25,0,1
+1,Weihnachten,2017-12-25,0,1
+2,Weihnachten,2018-12-25,0,1
+3,Weihnachten,2019-12-25,0,1
+4,Weihnachten,2020-12-25,0,1
+5,Weihnachten,2021-12-25,0,1
+6,Weihnachten,2022-12-25,0,1
+0,Weihnachtsferien,2016-12-23,0,10
+1,Weihnachtsferien,2017-12-27,0,10
+2,Weihnachtsferien,2018-12-21,0,10
+3,Weihnachtsferien,2019-12-23,0,10
+4,Weihnachtsferien,2020-12-23,0,10
+5,Weihnachtsferien,2021-12-23,0,10
+6,Weihnachtsferien,2022-12-23,0,10
