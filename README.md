@@ -1,1 +1,1 @@
-Projekte und Auszüge aus meinen Data Science Kursen
+Auszüge / Codebeispiele aus weiteren Data Science Kursen
